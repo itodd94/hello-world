@@ -1,2 +1,3 @@
 # hello-world
-Testing out GitHub
+
+I'm a new user testing out the ins and outs of GitHub.
